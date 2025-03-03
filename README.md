@@ -51,7 +51,7 @@ The **Club Event Management System** is designed to streamline event planning an
 ## Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yukii1004/DaddyB_2_Harbingers.git
+   git clone https://github.com/yukii1004/event-management-system.git
    cd DaddyB_2_Harbingers/
    ```
 2. Install dependencies:
